@@ -1,4 +1,4 @@
-RecordCount: 2510
+RecordCount: 3029
 console clrsav
 console load 2
    1
@@ -211,162 +211,15 @@ console load 2
   40
 
 #lvl_d0 (1)
-  10,L,J
-  13,L,X
-  36
-   1,L,J
-   1,L,K
-   1,L,J
-  12,L,K
-   7,U,X
-  19
-  20,U,X
-  13,L,J
-  15,L
-  10,L,Z
-  13,R,J
-  11,R,D,X
-  10
-  19,R,U,X
-   4,R,Z
-   8,R,J
-  11,R
-   1,D,J
-  10,R,D
-   5,R
-  40
-#lvl_d4 (0)
-  11,R,Z
-   4,R,J
-   3,R
-  12,R,Z
-   7,R,J
-   3,R
-   9,R,X
-  20,R,J,G
-   5,R,K,G
-   6,R,J,G
-  10,R,K,G
-  17,R
-  12,R,D
-  10,D,X
-  20,D
-   4,R
-   5,R,Z
-   2,R,J
-  40
-
-#lvl_d5
-  15,R,J
-  12,R,X
-  12
-   4,R,J
-  11,R,J
-   5,R,X
-  12
-   4,R,K
-   8,R,J
+  13,L,D,X
    2,L,J
-  13,L
-  10,L,Z
-  12
-   4,L,J
-  10,L,K
-   5,L,Z
-  12
-   3,L,J
-   3,L,K
-  19,L,D,Z
-   1,L,J
-   3,L
-  40
-
-#lvl_d4 (1)
-  13,L,J
-  20,L,X
-   2,L,J
-  20,L,D,Z
-  40
-
-#lvl_d2 (1)
-  17,R,D,X
-   8,R,J
-  10,D,X
-  16,L,D
-  10,L,Z
-   1,J
-  27,L,D,X
-  40
-
-#lvl_d0 (2)
-   3,L
-  10,L,J
-   9,L,X
-  35
-   4,L,J
-  10,L,K
-   9,U,X
-  19
-  13
-  10,U,X
-  10,L,J
-  13,L
-  20,L,U,X
-   5,L,X
-  40
-
-#lvl_d1
   10,L,D,X
-   1,L,J
-  17,L
-  10,L,X
-  13
-   4,L,J
-  10,L,D,X
-  13
-  18,R,D
-  10,R,X
-   9
-  20,R,D
-  19,R,D,X
-   1,S
-   1,D,J
-  34
-  14
-   5,L,Z
-  30,L,J
-   4,L,K
-   6,L
-  18,L,D,X
-  13,D,C
+  51,D
+   5,D,X
+  29,D
+  12,D,X
   40
 
-#lvl_d6
-   3,L
-  10,R,D,X
-   1,J
-  10,R,D
-  16,D,X
-  10,R,Z
-   3,R,J
-  15,R,D,X
-  22,R
-   3,R,J,G
-   1,R,K,G
-  10,R
-   5,R,Z
-   3,R,J
-  40
-
-#lvl_d0 (3)
-   7,R,J
-  10,R,D,X
-   4,R,J
-  14,R
-   7,D,X
-  26
-  11,R,D
-  40
 #lvl_d9
 # Copy  of github tas fil
    5,D
@@ -408,35 +261,173 @@ console load 2
    2,L,J,G
    1,K
   40
-#lvl_d0 (4)
-   4,R,J
-   2,R,K,G
-   7,R,J,G
-   6,U,X
-  29,R
-  10,R,D,X
-   7,R,J
-  11,R,K,G
-  10,U,X
-  20
-  20,U,X
-   2,J
-  13
+#lvl_d0 (2)
+   2,L,K,G
+   2,L,J,G
+   2,L,K,G
+   2,L,J,G
+   7,L,K
+   5,U,X
+  30
+  10,L,D,X
+   9,L,J
+   3,L,K,G
+  14,L,Z
+   1,L,J
+   9,L,D,X
+  40
+
+#lvl_d6
+   5,L
+  21,L,J
+  20,L,U,X
+   4,L,J,G
+   4,L,K,G
+   5,L,J,G
+   9,L
   10,L,J
-   9,L,X
-  35
-   4,L,J
-  10,L,K
-   9,U,X
-  19
-  13
-  10,U,X
-  10,L,J
+  20,L,U,X
   13,L
-  10,L,Z
+  12,U,X
+  40
+#lvl_d1
+  10
+  20,L,J
+Repeat, 2
+   5,K,G
+   5,J,G
+EndRepeat
+   5,R,J
+  13,R,U,X
+  18
+   4,J
+   5,R
+  13,R,U,X
+  14
+  18,R,D,X
+  12
+  29,L
+  17,L,X
+   5,L,D,Z
+   7
+   1,S
+   1,D,J
+  34
+  13
+  19,L,D,X
+  12,R,Z
+   3,R,J
+  10,R,D,X
   17,R,J
-  24,R,U,X
-  20,U,C
+  10,R,K,G
+  40
+#lvl_d0 (3)
+   2,R,K
+  12,U,X
+  21
+  10,J
+  17,U,X
+   5,L,J,G
+   6,L,K,G
+   7,L
+  13,R,Z
+   5,R,J
+  19,R,D,X
+   3
+  17,R,U,X
+   3
+   7,R,J,Z
+  20,R
+   1,R,J
+   7,R
+  40
+
+#lvl_d4 (0)
+   3,R
+  10,R,Z
+   5,R,J
+  11,R,Z
+  10,R,J
+  13,R,Z
+   2,R,J,G
+  22,R,K,G
+  10,J,G
+  10,K,G
+   4,R,J,G
+   9,R
+   1,R,J
+   3,R
+  15,R,D,X
+  10,L,D
+  10,D
+   9,R,D
+   8,R,Z
+  40
+
+#lvl_d5
+   1,R,J
+   7,R
+  12,R,J
+   5,R,X
+  14
+   1,R,J
+  10,R,K
+   2,R
+   5,R,X
+  14
+   1,R,J
+   8,R,K
+   1,L,J
+  15,L
+   8,L,Z
+  14
+   1,L,J
+   4,L,K
+   7,L
+   5,L,Z
+  14
+   1,L,J
+   1,L,K
+  20,L,D,X
+   5,L,J
+  40
+
+#lvl_d4 (1)
+   3,L,J
+  17,L
+  20,L,Z
+   1,L
+  19,L,D,X
+  40
+#lvl_d2 (1)
+  17,R,D,X
+   6,J
+  10,D,X
+  16,L
+  10,L,Z
+   5,L,J
+  23,L,D,X
+  40
+#lvl_d0 (4)
+   2,L,D
+   2,L
+  13,L,J
+   5,L,X
+  39
+   1,L,J
+  11,L,K
+   8,U,X
+  21
+  20,U,X
+  10,J,G
+   9,K,G
+   7,L
+  10,R,Z
+  10,R,J
+  10,R,U,X
+  12
+   4,R
+  18,U,X
   40
 
 #lvl_1 (1)
@@ -1123,4 +1114,4 @@ EndRepeat
    1,D,O
   18
 
-FileTime: 3:28.573(12269)
+FileTime: 3:25.921(12113)

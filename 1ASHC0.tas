@@ -358,8 +358,9 @@ EndRepeat
   26,R,D
   26,D
    7,R,J,Z
-#lvl_6b (1)
   40
+
+#lvl_6b (1)
    8,R,J
    2,R
   16,R,D,X
@@ -372,10 +373,11 @@ EndRepeat
    1,J
   14,R,D,X
 
+
+  16,R,J
+  40
 #lvl_6c
-  20,R,J
-  30,R,J
-   7,R,J
+   1,R,J
   15,U,X
   11,L,J
   18,L
@@ -527,7 +529,7 @@ EndRepeat
   30,J
   15,U,X
   40
-#lvl_9 (0)
+#lvl_9
   10,R,J
   27,R
    1,R,J
@@ -556,7 +558,7 @@ EndRepeat
   33
 
 # cp 2
-#lvl_9b
+#lvl_9b (0)
   18,R,J
    5,U,X
   15,L
@@ -584,7 +586,8 @@ EndRepeat
    8,L,Z
   40
 
-#lvl_9 (1)
+#lvl_9b (1)
+
    9,L,J
   13,U,X
    6,L,J
@@ -740,4 +743,4 @@ EndRepeat
    1,D,J
   18
 
-FileTime: 2:20.165(8245)
+FileTime: 2:20.131(8243)
