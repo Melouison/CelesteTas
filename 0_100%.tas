@@ -5,9 +5,11 @@ Set,GrabMode,Hold
 Set,DisableFlashes,True
 Set,SpeedrunClock,2
 Set,Everest.ShowModOptionsInGame,False
-EnforceMaingame
+Set,ExtendedVariantMode.DisplaySpeedometer,BOTH
+#EnforceMaingame
 Unsafe
 console clrsav
+
 
 
    1,O
@@ -97,3 +99,8 @@ Read, LoadA, Control
 Read, OLD CITY, Start
 Read,LoadA
 Read, 3ASCH, start
+Read, LoadA
+Read, 4ASHC, Start
+
+FileTime
+RealTime
