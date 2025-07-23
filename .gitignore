@@ -1,0 +1,12 @@
+# Ignorer TOUT par défaut
+*
+
+# Exceptions : Ne PAS ignorer les fichiers .TAS et .md
+!*.TAS
+!*.md
+
+# Ne PAS ignorer les dossiers (pour qu'ils restent parcourus par Git)
+!*/
+
+# Optionnel : Ne PAS ignorer le fichier .gitignore lui-même
+!.gitignore
