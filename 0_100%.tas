@@ -10,7 +10,9 @@ Set,ExtendedVariantMode.DisplaySpeedometer,BOTH
 Unsafe
 console clrsav
 
-
+# faut etre dans le menus
+#  et le 1er fille choisi
+# va etre suprimer par le TAS
 
    1,O
   45
@@ -102,5 +104,5 @@ Read, 3ASCH, start
 Read, LoadA
 Read, 4ASHC, Start
 
-FileTime
-RealTime
+FileTime: 14:11.802(50106)
+RealTime: 16:17.633(58658)
