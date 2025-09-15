@@ -1,5 +1,4 @@
 RecordCount: 3391
-console clrsav
 console load 2
    1
 #Start
@@ -954,7 +953,6 @@ EndRepeat
    1,D,O
   18
  190
-Set,ExtendedVariantMode.DisplaySpeedometer,BOTH
 #lvl_end_0
   14,R,D,X
    1,R,J

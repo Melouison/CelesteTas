@@ -1,0 +1,82 @@
+RecordCount: 295
+
+console load 4 d-00
+   1
+
+
+
+#Start
+  36
+  24,L,J
+   8,U,X
+  17,J
+   3,L,J
+  12,L,K,G
+   1,L,J,G
+   7,L
+  14,L,D,X
+   1,L,J
+  10,L,D,X
+  40
+#lvl_d-00b
+   3
+   1,L,J
+   5,R,D
+  14,R,D,X
+  20,L
+   9,L,J
+  13,L
+   5,R,G
+  20,D,G
+  70,L,G
+  11,L,J
+   7,L
+   2,L,J
+  37,L,D
+  20,L,X
+   5,L
+  15,L,X
+   1,L
+  20,L,U,X
+   3,L
+   3,L,U,G
+  32,L,U,G
+  48,L,G
+   4,L,J,G
+   7,L
+   4,J
+   1,R
+   7,R
+   4,J
+   8,R
+   4,L,J
+   8,L
+   4,R,J
+   8,R
+   3,J
+   7,L
+   3,J
+   7,R
+  17,R,J
+  11,R
+   8,R,J,G
+  11,R
+   7,L
+   6,L,G
+   8,R,D,G
+  74,R,G
+  30,R,J
+  42,R
+  15,R,X
+   3,R
+  12,R,J,G
+  10,R,K,G
+  13,R
+   2,R,J,G
+   8,R
+  14,R,D,X
+  39,L
+   1,S
+   1,U,J
+   1,O
+FileTime: 0:15.929(937)
