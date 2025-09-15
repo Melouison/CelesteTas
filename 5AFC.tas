@@ -1,4 +1,4 @@
-RecordCount: 2695
+RecordCount: 3347
 console load 5
    1
 #Start
@@ -327,37 +327,37 @@ EndRepeat
   40
 #lvl_a-12 (2)
   56,D
-  43,L,C
-   8,L,D,X
+  44,L,C
+  14,L,D,X
    1,L,J,G
-  13,L
-   1,L,J
   14,L,D,X
    1,L,J
-   7,L,D,X
-   3,L,J
-   2,L
-   2,L,J,G
+  10,L,D,X
+   4,L,J
+   3,L,K,G
    4,L
   40
 #lvl_a-08 (4)
+   1
   10,L,D,X
-   1,J
+   1,L,J
    4,R
   13,L,D,X
-   3,J
+   3,L,J
   10,L,D,X
    3,L,J
-   5,L,K,G
-  11,L,D,X
-   2,L,J
-   4,L
-  15,L,D,X
+   8,L,K,G
+  12,L,D,X
+   1,L,J
+   7,L
+   5,D,X
+   6,L,D
   40
 #lvl_a-01 (1)
-  31,D
-   7,L,D
-  18,L,X
+   4,L,D
+  13,D
+  20,L,D
+  16,L,X
   59,L,C
    8,K,G
   12,J,G
@@ -381,6 +381,7 @@ EndRepeat
    3,R
   15,R,J,G
    3,R
+# ta une opti a faire ici
    1,R,J
   34,R,D
    9,R,J
@@ -545,4 +546,93 @@ EndRepeat
    1,R
   11,D,X
   40
-#lvl_a-05
+#lvl_a-05 (0)
+   2,D
+  23,R,D
+  10,R,X
+  15,R,J
+  13,R,D,X
+   1,R,J
+   5,R
+  10,D,X
+  11,R,D
+  11,L
+  16,L,D,X
+  26,R,D
+   1,R,G
+   4
+   2,R,J,G
+  20,R,X
+  11,R
+   3,R,D
+  17,R,J
+  12,R,K,G
+   1,J,G
+   7,L
+  10,R,U,X
+  21,R,D
+   6,R,D,X
+   1,R,J
+   2,R
+  40
+#lvl_a-06
+   5,R
+  27,L,D
+  13,R,D,X
+   4,R,K
+   1,K
+  15,J
+  14,U,X
+  10,R,U,C
+  21,R,D
+   6,R
+   5,R,D
+  10,R,U,X
+  29,R,D
+  15,L,U,X
+  38,L
+  11,J,G
+  14,L
+  30,D,X
+  14,L,D,C
+   1,K
+   5,J
+   9,L,J
+   6,L,Z
+   1,L,J
+   7,L
+   1,L,J
+  40
+#lvl_a-05 (1)
+  14,L,D,X
+   1,L,J
+   7,L
+   2,L,J
+  51,L
+  12,L,J,G
+  12,L,U,G
+   1,L,J,G
+   1,L,K,G
+  17,L,J,G
+  10,L,X
+  12,L,J
+   9,L,D,X
+   1,L,J
+  40
+#lvl_a-07
+   4,L,J
+  23,L
+  12,L,U,Z
+  15,L,J,G
+   7,L,K,G
+   6,L,J,G
+  18,L,D
+   4,D
+  10,L,X
+   6,L,J
+  10,D,X
+  19,R
+   1,S
+   1,U,J
+   1,O
+  31
