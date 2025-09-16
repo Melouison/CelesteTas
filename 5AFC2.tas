@@ -1,0 +1,48 @@
+RecordCount: 210
+
+console load 5 b-00
+   1
+#Start
+#lvl_b-00 (0)
+  36
+   6,R,D,X
+   1,R,J
+   7,R
+   1,R,J
+   1,L,J
+   1,S
+   1,D,J
+  34
+  22,L,J
+  11,U,X
+  17,L,J
+  12,K,G
+   4,J,G
+   3,R,K
+  40
+#lvl_b-18
+   3,R,K,G
+  21,R,J,G
+   2,K,G
+  10,R,X
+  11,R,K
+   1,J
+  12,R,J
+  12,K,G
+  11,R,J,G
+   4,R
+  14,R,J
+   5,R,X
+  22,R,J
+  25,L,D
+  15,L,X
+  11,L,U,Z
+   2,R,J,G
+   7,L
+  10,L,D,X
+   1,L,J
+   7,L,D
+   5,D,X
+  11,D
+  40
+#lvl_b-00 (1)
