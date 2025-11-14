@@ -1,0 +1,116 @@
+# Bubble Sides
+# https://gamebanana.com/mods/628115
+
+RecordCount: 280
+
+console load "Floatingreed/Celeste Bubble Version/0Bubble"
+   1
+
+#Start
+  61
+
+#lvl_0
+  49
+   1,S
+   1,D,J
+  34
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+   3,R
+  11,R,Z
+  17,R,J
+  12,R,D,X
+   6,R,J
+  21,R
+   9,J
+   2,R,J
+   1,R,K,G
+   1,R,J,G
+  26,R
+   1,R,J
+  13,R
+  40
+#lvl_1
+   1,R
+   1,R,J
+   4,R
+   1,S
+   1,D,J
+  34
+  10,R
+  12,R,J
+   5,R
+  15,R,U,X
+  11,R
+  12,R,J,G
+  17,R
+   4
+   6,R,J
+  24,R
+   3,R,J
+   2,R
+   1
+   1,R,J
+   6,R
+  11,U,X
+   2,L,J
+  20,R,D,J
+  18,R,D
+   1,R
+   1,R,J
+   3,R
+   1,S
+   1,D,J
+  34
+  27,R,D
+   1,R,J
+  19,R,D
+  15,R,U,X
+   1,J,G
+  24,L,J
+   2,K,G
+   2,R,K
+   1,L,K
+  12,L,J,G
+  13,L,K,G
+   5,L,Z
+  19,R,J
+  40
+#lvl_2
+   4,R,D
+  17,D
+   3,J,G
+  10,R,J
+   7,R
+   1,R,J
+  15,R
+   1,S
+   1,D,J
+  34
+   9,R,J
+   9,R,X
+  11,R,J,G
+  40
+  10,R,D,J
+  28,R,D
+Repeat, 15
+   1,R,J
+  14,R
+EndRepeat
+   4,R,J
+  17,R
+Repeat, 10
+   1,R,J
+  14,R
+EndRepeat
+  12,R,J
+  16,R
+   1,S
+   1,D,J
+ 232
+
+FileTime: 0:27.557(1621)
+ChapterTime: 0:24.531(1443)

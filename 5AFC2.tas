@@ -1,4 +1,4 @@
-RecordCount: 7495
+RecordCount: 7640
 Set, Everest.ShowModOptionsInGame, false
 console load 5 b-00
    1
@@ -1582,36 +1582,20 @@ EndRepeat
 #lvl_d-04 (1)
    1,L
    3,L,J
-***S
   26,L,D,X
-   3,L,J,G
-  17,L,K,G
-   8,L,D,X
-   1,L,J,G
-  11,L
+
 ***S
    3,L,J
-   5,L,K,G
-   6,L
-  14,L,D,X
-   4,L,J
-  11,L
-  10,R,D,X
-   7,L,J
-***S
-  28,L,K,G
-  15,L,Z
+   1,L,K,G
+   3,L,K
+   6
+   5,L,D,X
+   3,L,J,G
+   9,L
+   1,L,J
+   8,L
+   5,L,D,X
    1,L,J,G
   12,L
-***S
-   1,L,J
-   3,L
-  40
-#lvl_d-19b
-   6,L
-  30,D,X
-  10,L,D
-  40
-#lvl_d-19
-  28,D
-  14
+   4,L,J
+  14,L,D,X
