@@ -1,0 +1,118 @@
+# Bubble Sides
+# https://gamebanana.com/mods/628115
+
+RecordCount: 308
+
+console load "Floatingreed/Celeste Bubble Version/2Bubble"
+   1
+
+#Start
+ 190
+
+#lvl_start
+***S
+Repeat, 3
+   1,R,J
+  14,R
+EndRepeat
+   1,R,J
+   1,R
+  40
+#lvl_0
+  13,R
+   1,R,J
+  14,R
+   1,R,J
+  18,R
+   1,R,J
+  17,R
+   1,R,J
+  14,R
+   1,R,J
+   7,R
+***S
+   6,R,J,Z
+   8,R
+   1,R,J
+   6,R
+   1,R,J,G
+   1,R,K,G
+  14,R
+   3,R,J
+   4,R
+  40
+#lvl_1
+
+  12,R
+   9,R,J
+   6,R
+   1,R,J,G
+   3,R,D
+***S
+  27,L,D
+   4,D
+  40
+#lvl_d0
+  13,L,D
+   4,L
+  45,L,D
+  77,R,D
+***S
+  10,R,D,X
+   7,R,J
+   4,R
+   1,R,J,G
+  14,R
+   1,R,J
+   2,R
+  40
+#lvl_d7
+   7,R
+***S
+   7,L,Z
+   9,R,J
+  15,R
+   1,R,J,G
+   6,R
+   5,U,X
+  41,R,J
+   9,R,K,G
+  16,R
+   1,R,J
+  34,R,D
+   1,R,J
+  18,R
+   1,R,J
+   8,R
+  40
+#lvl_d8
+   6,R
+   1,R,J
+  14,R
+***S
+   4,R,J
+  15,R
+   5
+  10,R,J
+  19,R
+   5,R,X
+  32,R,J,G
+  12,R,K,G
+   2,R,J,G
+   9,R
+  26,R,J
+  12,R,K,G
+  10,R,J,G
+   7,R
+   1,R,K
+  10,R
+  40
+#lvl_d3
+   4,R
+***S
+   1,R,J
+  14,R
+   3,R,J
+  28,R
+   1,R,J,G
+  99,R
